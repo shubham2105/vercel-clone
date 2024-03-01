@@ -1,5 +1,5 @@
 "use strict";
-// create function that randomly genrates an id for the session
+// function that randomly genrates an id for the session
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.generate = void 0;
 function generate() {
